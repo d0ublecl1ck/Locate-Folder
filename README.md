@@ -48,4 +48,3 @@ npm run build
 | Alipay | WeChat Pay |
 |:---:|:---:|
 | ![支付宝收款码](assets/alipay.jpg) | ![微信收款码](assets/wechat.jpg) |
-
