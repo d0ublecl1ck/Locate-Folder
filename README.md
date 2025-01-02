@@ -49,6 +49,3 @@ npm run build
 |:---:|:---:|
 | ![支付宝收款码](assets/alipay.jpg) | ![微信收款码](assets/wechat.jpg) |
 
-## 许可证
-
-[MIT License](LICENSE)
