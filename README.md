@@ -42,6 +42,16 @@ npm run dev
 npm run build
 ```
 
+## 贡献
+
+欢迎提交 Pull Request 来改进这个项目!
+
+1. Fork 这个仓库
+2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交你的改动 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 发起 Pull Request
+
 ## Buy Me a Coffee
 
 如果这个插件对你有帮助，欢迎请我喝杯咖啡 ☕
