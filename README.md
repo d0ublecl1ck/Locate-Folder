@@ -45,8 +45,9 @@ npm run build
 ## Buy Me a Coffee
 
 如果这个插件对你有帮助，欢迎请我喝杯咖啡 ☕
-
-![收款码](assets/donate.jpg)
+| Alipay | WeChat Pay |
+|:---:|:---:|
+| ![支付宝收款码](assets/alipay.jpg) | ![微信收款码](assets/wechat.jpg) |
 
 ## 许可证
 
