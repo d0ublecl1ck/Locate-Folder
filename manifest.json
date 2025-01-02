@@ -1,0 +1,9 @@
+{
+    "id": "folder-locator",
+    "name": "Folder Locator",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "快速定位文件夹的Obsidian插件",
+    "author": "d0ublecl1ck",
+    "isDesktopOnly": false
+} 
