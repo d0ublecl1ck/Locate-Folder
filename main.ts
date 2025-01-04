@@ -31,7 +31,7 @@ export default class FolderLocatorPlugin extends Plugin {
 class FolderSearchModal extends FuzzySuggestModal<TFolder> {
     constructor(app: App) {
         super(app);
-        this.setPlaceholder("输入文件夹名称或拼音...");
+        this.setPlaceholder("输入文件夹名称定位文件夹...");
         this.emptyStateText = "没有相关的文件夹";
     }
 
